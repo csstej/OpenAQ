@@ -1,0 +1,1612 @@
+{
+      "meta": {
+            "name": "openaq-api",
+            "license": "CC BY 4.0",
+            "website": "https://docs.openaq.org/",
+            "page": 1,
+            "limit": 100,
+            "found": 34782808
+      },
+      "results": [
+            {
+                  "location": "North Campus, DU, Delhi - IMD",
+                  "parameter": "o3",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 32.14,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.6573814,
+                        "longitude": 77.1585447
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "North Campus, DU, Delhi - IMD",
+                  "parameter": "no2",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 46.13,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.6573814,
+                        "longitude": 77.1585447
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "North Campus, DU, Delhi - IMD",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 97.89,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.6573814,
+                        "longitude": 77.1585447
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "Sector - 62, Noida - IMD",
+                  "parameter": "co",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 940,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.6245479,
+                        "longitude": 77.3577104
+                  },
+                  "country": "IN",
+                  "city": "Noida"
+            },
+            {
+                  "location": "Sector - 62, Noida - IMD",
+                  "parameter": "pm10",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 252.53,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.6245479,
+                        "longitude": 77.3577104
+                  },
+                  "country": "IN",
+                  "city": "Noida"
+            },
+            {
+                  "location": "CRRI Mathura Road, Delhi - IMD",
+                  "parameter": "o3",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 7.49,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.5512005,
+                        "longitude": 77.2735737
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "CRRI Mathura Road, Delhi - IMD",
+                  "parameter": "no2",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 76.68,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.5512005,
+                        "longitude": 77.2735737
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "CRRI Mathura Road, Delhi - IMD",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 88.49,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.5512005,
+                        "longitude": 77.2735737
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "Aya Nagar, Delhi - IMD",
+                  "parameter": "o3",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 21.33,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.4706914,
+                        "longitude": 77.1099364
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "Aya Nagar, Delhi - IMD",
+                  "parameter": "no2",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 29.61,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.4706914,
+                        "longitude": 77.1099364
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "Aya Nagar, Delhi - IMD",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 103.52,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.4706914,
+                        "longitude": 77.1099364
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "CRRI Mathura Road, Delhi - IMD",
+                  "parameter": "co",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 1530,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.5512005,
+                        "longitude": 77.2735737
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "Lodhi Road, Delhi - IMD",
+                  "parameter": "o3",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 8.22,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.5918245,
+                        "longitude": 77.2273074
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "Lodhi Road, Delhi - IMD",
+                  "parameter": "co",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 430,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.5918245,
+                        "longitude": 77.2273074
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "Lodhi Road, Delhi - IMD",
+                  "parameter": "pm10",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 160.57,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.5918245,
+                        "longitude": 77.2273074
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "Lodhi Road, Delhi - IMD",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 44.76,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.5918245,
+                        "longitude": 77.2273074
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "CRRI Mathura Road, Delhi - IMD",
+                  "parameter": "pm10",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 243.36,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.5512005,
+                        "longitude": 77.2735737
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "Aya Nagar, Delhi - IMD",
+                  "parameter": "co",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 1230,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.4706914,
+                        "longitude": 77.1099364
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "Aya Nagar, Delhi - IMD",
+                  "parameter": "pm10",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 210.31,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.4706914,
+                        "longitude": 77.1099364
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "Lodhi Road, Delhi - IMD",
+                  "parameter": "no2",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 16.07,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.5918245,
+                        "longitude": 77.2273074
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "North Campus, DU, Delhi - IMD",
+                  "parameter": "co",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 470,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.6573814,
+                        "longitude": 77.1585447
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "North Campus, DU, Delhi - IMD",
+                  "parameter": "pm10",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 222.22,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.6573814,
+                        "longitude": 77.1585447
+                  },
+                  "country": "IN",
+                  "city": "Delhi"
+            },
+            {
+                  "location": "Sector - 62, Noida - IMD",
+                  "parameter": "o3",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 22.43,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.6245479,
+                        "longitude": 77.3577104
+                  },
+                  "country": "IN",
+                  "city": "Noida"
+            },
+            {
+                  "location": "Sector - 62, Noida - IMD",
+                  "parameter": "no2",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 20.6,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.6245479,
+                        "longitude": 77.3577104
+                  },
+                  "country": "IN",
+                  "city": "Noida"
+            },
+            {
+                  "location": "Sector - 62, Noida - IMD",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:45:00Z",
+                        "local": "2020-10-10T22:15:00+05:30"
+                  },
+                  "value": 100.77,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.6245479,
+                        "longitude": 77.3577104
+                  },
+                  "country": "IN",
+                  "city": "Noida"
+            },
+            {
+                  "location": "Hyderabad",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 38,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 17.38405,
+                        "longitude": 78.45636
+                  },
+                  "country": "IN",
+                  "city": "India"
+            },
+            {
+                  "location": "Mumbai",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 38,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 19.07283,
+                        "longitude": 72.88261
+                  },
+                  "country": "IN",
+                  "city": "India"
+            },
+            {
+                  "location": "Kolkata",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 33,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 22.56263,
+                        "longitude": 88.36304
+                  },
+                  "country": "IN",
+                  "city": "India"
+            },
+            {
+                  "location": "Chennai",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 45,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 13.08784,
+                        "longitude": 80.278475
+                  },
+                  "country": "IN",
+                  "city": "India"
+            },
+            {
+                  "location": "New Delhi",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 88,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.63576,
+                        "longitude": 77.22445
+                  },
+                  "country": "IN",
+                  "city": "India"
+            },
+            {
+                  "location": "US Diplomatic Post: Mumbai",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 36,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 19.07283,
+                        "longitude": 72.88261
+                  },
+                  "country": "IN",
+                  "city": "Mumbai"
+            },
+            {
+                  "location": "Sector-2 Industrial Area, Pithampur - MPPCB",
+                  "parameter": "o3",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 56.8,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 22.624758,
+                        "longitude": 75.675238
+                  },
+                  "country": "IN",
+                  "city": "Pithampur"
+            },
+            {
+                  "location": "Sector-2 Industrial Area, Pithampur - MPPCB",
+                  "parameter": "co",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 760,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 22.624758,
+                        "longitude": 75.675238
+                  },
+                  "country": "IN",
+                  "city": "Pithampur"
+            },
+            {
+                  "location": "Sector-2 Industrial Area, Pithampur - MPPCB",
+                  "parameter": "so2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 12.1,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 22.624758,
+                        "longitude": 75.675238
+                  },
+                  "country": "IN",
+                  "city": "Pithampur"
+            },
+            {
+                  "location": "Sector-2 Industrial Area, Pithampur - MPPCB",
+                  "parameter": "no2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 14.9,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 22.624758,
+                        "longitude": 75.675238
+                  },
+                  "country": "IN",
+                  "city": "Pithampur"
+            },
+            {
+                  "location": "Sector-2 Industrial Area, Pithampur - MPPCB",
+                  "parameter": "pm10",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 217,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 22.624758,
+                        "longitude": 75.675238
+                  },
+                  "country": "IN",
+                  "city": "Pithampur"
+            },
+            {
+                  "location": "Sector-2 Industrial Area, Pithampur - MPPCB",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 122,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 22.624758,
+                        "longitude": 75.675238
+                  },
+                  "country": "IN",
+                  "city": "Pithampur"
+            },
+            {
+                  "location": "Mahakaleshwar Temple, Ujjain - MPPCB",
+                  "parameter": "o3",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 45.4,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 23.182719,
+                        "longitude": 75.768218
+                  },
+                  "country": "IN",
+                  "city": "Ujjain"
+            },
+            {
+                  "location": "Mahakaleshwar Temple, Ujjain - MPPCB",
+                  "parameter": "co",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 980,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 23.182719,
+                        "longitude": 75.768218
+                  },
+                  "country": "IN",
+                  "city": "Ujjain"
+            },
+            {
+                  "location": "Mahakaleshwar Temple, Ujjain - MPPCB",
+                  "parameter": "so2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 6.4,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 23.182719,
+                        "longitude": 75.768218
+                  },
+                  "country": "IN",
+                  "city": "Ujjain"
+            },
+            {
+                  "location": "Mahakaleshwar Temple, Ujjain - MPPCB",
+                  "parameter": "no2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 35.5,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 23.182719,
+                        "longitude": 75.768218
+                  },
+                  "country": "IN",
+                  "city": "Ujjain"
+            },
+            {
+                  "location": "Mahakaleshwar Temple, Ujjain - MPPCB",
+                  "parameter": "pm10",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 213,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 23.182719,
+                        "longitude": 75.768218
+                  },
+                  "country": "IN",
+                  "city": "Ujjain"
+            },
+            {
+                  "location": "Mahakaleshwar Temple, Ujjain - MPPCB",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 98,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 23.182719,
+                        "longitude": 75.768218
+                  },
+                  "country": "IN",
+                  "city": "Ujjain"
+            },
+            {
+                  "location": "Vindhyachal STPS, Singrauli - MPPCB",
+                  "parameter": "o3",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 27.4,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 24.10897,
+                        "longitude": 82.64558
+                  },
+                  "country": "IN",
+                  "city": "Singrauli"
+            },
+            {
+                  "location": "Vindhyachal STPS, Singrauli - MPPCB",
+                  "parameter": "co",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 1110,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 24.10897,
+                        "longitude": 82.64558
+                  },
+                  "country": "IN",
+                  "city": "Singrauli"
+            },
+            {
+                  "location": "Vindhyachal STPS, Singrauli - MPPCB",
+                  "parameter": "so2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 23.1,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 24.10897,
+                        "longitude": 82.64558
+                  },
+                  "country": "IN",
+                  "city": "Singrauli"
+            },
+            {
+                  "location": "Vindhyachal STPS, Singrauli - MPPCB",
+                  "parameter": "no2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 32.8,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 24.10897,
+                        "longitude": 82.64558
+                  },
+                  "country": "IN",
+                  "city": "Singrauli"
+            },
+            {
+                  "location": "Vindhyachal STPS, Singrauli - MPPCB",
+                  "parameter": "pm10",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 215,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 24.10897,
+                        "longitude": 82.64558
+                  },
+                  "country": "IN",
+                  "city": "Singrauli"
+            },
+            {
+                  "location": "Vindhyachal STPS, Singrauli - MPPCB",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 44,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 24.10897,
+                        "longitude": 82.64558
+                  },
+                  "country": "IN",
+                  "city": "Singrauli"
+            },
+            {
+                  "location": "Shrinath Puram, Kota - RSPCB",
+                  "parameter": "o3",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 10.22,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 25.14389,
+                        "longitude": 75.821256
+                  },
+                  "country": "IN",
+                  "city": "Kota"
+            },
+            {
+                  "location": "Shrinath Puram, Kota - RSPCB",
+                  "parameter": "co",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 2000,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 25.14389,
+                        "longitude": 75.821256
+                  },
+                  "country": "IN",
+                  "city": "Kota"
+            },
+            {
+                  "location": "Shrinath Puram, Kota - RSPCB",
+                  "parameter": "so2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 10.49,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 25.14389,
+                        "longitude": 75.821256
+                  },
+                  "country": "IN",
+                  "city": "Kota"
+            },
+            {
+                  "location": "Shrinath Puram, Kota - RSPCB",
+                  "parameter": "no2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 28.29,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 25.14389,
+                        "longitude": 75.821256
+                  },
+                  "country": "IN",
+                  "city": "Kota"
+            },
+            {
+                  "location": "Shrinath Puram, Kota - RSPCB",
+                  "parameter": "pm10",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 205,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 25.14389,
+                        "longitude": 75.821256
+                  },
+                  "country": "IN",
+                  "city": "Kota"
+            },
+            {
+                  "location": "Shrinath Puram, Kota - RSPCB",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 161.5,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 25.14389,
+                        "longitude": 75.821256
+                  },
+                  "country": "IN",
+                  "city": "Kota"
+            },
+            {
+                  "location": "RIICO Ind. Area III, Bhiwadi - RSPCB",
+                  "parameter": "o3",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 6.13,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.194909,
+                        "longitude": 76.862296
+                  },
+                  "country": "IN",
+                  "city": "Bhiwadi"
+            },
+            {
+                  "location": "RIICO Ind. Area III, Bhiwadi - RSPCB",
+                  "parameter": "co",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 1140,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.194909,
+                        "longitude": 76.862296
+                  },
+                  "country": "IN",
+                  "city": "Bhiwadi"
+            },
+            {
+                  "location": "RIICO Ind. Area III, Bhiwadi - RSPCB",
+                  "parameter": "so2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 50.58,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.194909,
+                        "longitude": 76.862296
+                  },
+                  "country": "IN",
+                  "city": "Bhiwadi"
+            },
+            {
+                  "location": "RIICO Ind. Area III, Bhiwadi - RSPCB",
+                  "parameter": "no2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 224.9,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.194909,
+                        "longitude": 76.862296
+                  },
+                  "country": "IN",
+                  "city": "Bhiwadi"
+            },
+            {
+                  "location": "RIICO Ind. Area III, Bhiwadi - RSPCB",
+                  "parameter": "pm10",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 486.35,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.194909,
+                        "longitude": 76.862296
+                  },
+                  "country": "IN",
+                  "city": "Bhiwadi"
+            },
+            {
+                  "location": "RIICO Ind. Area III, Bhiwadi - RSPCB",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 239.97,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 28.194909,
+                        "longitude": 76.862296
+                  },
+                  "country": "IN",
+                  "city": "Bhiwadi"
+            },
+            {
+                  "location": "Moti Doongri, Alwar - RSPCB",
+                  "parameter": "o3",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 21.76,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 27.554793,
+                        "longitude": 76.611536
+                  },
+                  "country": "IN",
+                  "city": " Alwar"
+            },
+            {
+                  "location": "Moti Doongri, Alwar - RSPCB",
+                  "parameter": "co",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 590,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 27.554793,
+                        "longitude": 76.611536
+                  },
+                  "country": "IN",
+                  "city": " Alwar"
+            },
+            {
+                  "location": "Moti Doongri, Alwar - RSPCB",
+                  "parameter": "so2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 11.62,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 27.554793,
+                        "longitude": 76.611536
+                  },
+                  "country": "IN",
+                  "city": " Alwar"
+            },
+            {
+                  "location": "Moti Doongri, Alwar - RSPCB",
+                  "parameter": "no2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 24.65,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 27.554793,
+                        "longitude": 76.611536
+                  },
+                  "country": "IN",
+                  "city": " Alwar"
+            },
+            {
+                  "location": "Moti Doongri, Alwar - RSPCB",
+                  "parameter": "pm10",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 80.77,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 27.554793,
+                        "longitude": 76.611536
+                  },
+                  "country": "IN",
+                  "city": " Alwar"
+            },
+            {
+                  "location": "Moti Doongri, Alwar - RSPCB",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 43.32,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 27.554793,
+                        "longitude": 76.611536
+                  },
+                  "country": "IN",
+                  "city": " Alwar"
+            },
+            {
+                  "location": "Sanjay Palace, Agra - UPPCB",
+                  "parameter": "o3",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 71.1,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 27.19865833,
+                        "longitude": 78.00598056
+                  },
+                  "country": "IN",
+                  "city": "Agra"
+            },
+            {
+                  "location": "Sanjay Palace, Agra - UPPCB",
+                  "parameter": "co",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 710,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 27.19865833,
+                        "longitude": 78.00598056
+                  },
+                  "country": "IN",
+                  "city": "Agra"
+            },
+            {
+                  "location": "Sanjay Palace, Agra - UPPCB",
+                  "parameter": "so2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 7.3,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 27.19865833,
+                        "longitude": 78.00598056
+                  },
+                  "country": "IN",
+                  "city": "Agra"
+            },
+            {
+                  "location": "Sanjay Palace, Agra - UPPCB",
+                  "parameter": "no2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 75.6,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 27.19865833,
+                        "longitude": 78.00598056
+                  },
+                  "country": "IN",
+                  "city": "Agra"
+            },
+            {
+                  "location": "Sanjay Palace, Agra - UPPCB",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 95,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 27.19865833,
+                        "longitude": 78.00598056
+                  },
+                  "country": "IN",
+                  "city": "Agra"
+            },
+            {
+                  "location": "Manali, Chennai - CPCB",
+                  "parameter": "co",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 1280,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 13.164544,
+                        "longitude": 80.26285
+                  },
+                  "country": "IN",
+                  "city": "Chennai"
+            },
+            {
+                  "location": "Manali, Chennai - CPCB",
+                  "parameter": "so2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 7.34,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 13.164544,
+                        "longitude": 80.26285
+                  },
+                  "country": "IN",
+                  "city": "Chennai"
+            },
+            {
+                  "location": "Manali, Chennai - CPCB",
+                  "parameter": "no2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 11.21,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 13.164544,
+                        "longitude": 80.26285
+                  },
+                  "country": "IN",
+                  "city": "Chennai"
+            },
+            {
+                  "location": "Manali, Chennai - CPCB",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 39.02,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 13.164544,
+                        "longitude": 80.26285
+                  },
+                  "country": "IN",
+                  "city": "Chennai"
+            },
+            {
+                  "location": "Zoo Park, Hyderabad - TSPCB",
+                  "parameter": "o3",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 14.1,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 17.349694,
+                        "longitude": 78.451437
+                  },
+                  "country": "IN",
+                  "city": "Hyderabad"
+            },
+            {
+                  "location": "Zoo Park, Hyderabad - TSPCB",
+                  "parameter": "co",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 220,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 17.349694,
+                        "longitude": 78.451437
+                  },
+                  "country": "IN",
+                  "city": "Hyderabad"
+            },
+            {
+                  "location": "Zoo Park, Hyderabad - TSPCB",
+                  "parameter": "so2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 4.4,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 17.349694,
+                        "longitude": 78.451437
+                  },
+                  "country": "IN",
+                  "city": "Hyderabad"
+            },
+            {
+                  "location": "Zoo Park, Hyderabad - TSPCB",
+                  "parameter": "no2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 63.2,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 17.349694,
+                        "longitude": 78.451437
+                  },
+                  "country": "IN",
+                  "city": "Hyderabad"
+            },
+            {
+                  "location": "Zoo Park, Hyderabad - TSPCB",
+                  "parameter": "pm10",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 180,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 17.349694,
+                        "longitude": 78.451437
+                  },
+                  "country": "IN",
+                  "city": "Hyderabad"
+            },
+            {
+                  "location": "Zoo Park, Hyderabad - TSPCB",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 84,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 17.349694,
+                        "longitude": 78.451437
+                  },
+                  "country": "IN",
+                  "city": "Hyderabad"
+            },
+            {
+                  "location": "Talkatora District Industries Center, Lucknow - CPCB",
+                  "parameter": "o3",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 1.26,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 26.83399722,
+                        "longitude": 80.8917361
+                  },
+                  "country": "IN",
+                  "city": "Lucknow"
+            },
+            {
+                  "location": "Talkatora District Industries Center, Lucknow - CPCB",
+                  "parameter": "co",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 700,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 26.83399722,
+                        "longitude": 80.8917361
+                  },
+                  "country": "IN",
+                  "city": "Lucknow"
+            },
+            {
+                  "location": "Talkatora District Industries Center, Lucknow - CPCB",
+                  "parameter": "so2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 10.07,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 26.83399722,
+                        "longitude": 80.8917361
+                  },
+                  "country": "IN",
+                  "city": "Lucknow"
+            },
+            {
+                  "location": "Talkatora District Industries Center, Lucknow - CPCB",
+                  "parameter": "no2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 135.64,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 26.83399722,
+                        "longitude": 80.8917361
+                  },
+                  "country": "IN",
+                  "city": "Lucknow"
+            },
+            {
+                  "location": "Talkatora District Industries Center, Lucknow - CPCB",
+                  "parameter": "pm10",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 641.97,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 26.83399722,
+                        "longitude": 80.8917361
+                  },
+                  "country": "IN",
+                  "city": "Lucknow"
+            },
+            {
+                  "location": "Talkatora District Industries Center, Lucknow - CPCB",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 282.2,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 26.83399722,
+                        "longitude": 80.8917361
+                  },
+                  "country": "IN",
+                  "city": "Lucknow"
+            },
+            {
+                  "location": "MIDC Khutala, Chandrapur - MPCB",
+                  "parameter": "o3",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 2.4,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 19.9775302,
+                        "longitude": 79.2337086
+                  },
+                  "country": "IN",
+                  "city": "Chandrapur"
+            },
+            {
+                  "location": "MIDC Khutala, Chandrapur - MPCB",
+                  "parameter": "co",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 360,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 19.9775302,
+                        "longitude": 79.2337086
+                  },
+                  "country": "IN",
+                  "city": "Chandrapur"
+            },
+            {
+                  "location": "MIDC Khutala, Chandrapur - MPCB",
+                  "parameter": "so2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 6.33,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 19.9775302,
+                        "longitude": 79.2337086
+                  },
+                  "country": "IN",
+                  "city": "Chandrapur"
+            },
+            {
+                  "location": "MIDC Khutala, Chandrapur - MPCB",
+                  "parameter": "no2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 19.74,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 19.9775302,
+                        "longitude": 79.2337086
+                  },
+                  "country": "IN",
+                  "city": "Chandrapur"
+            },
+            {
+                  "location": "MIDC Khutala, Chandrapur - MPCB",
+                  "parameter": "pm10",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 141.03,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 19.9775302,
+                        "longitude": 79.2337086
+                  },
+                  "country": "IN",
+                  "city": "Chandrapur"
+            },
+            {
+                  "location": "MIDC Khutala, Chandrapur - MPCB",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 89.23,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 19.9775302,
+                        "longitude": 79.2337086
+                  },
+                  "country": "IN",
+                  "city": "Chandrapur"
+            },
+            {
+                  "location": "Sanathnagar, Hyderabad - TSPCB",
+                  "parameter": "o3",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 7.4,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 17.4559458,
+                        "longitude": 78.4332152
+                  },
+                  "country": "IN",
+                  "city": "Hyderabad"
+            },
+            {
+                  "location": "Sanathnagar, Hyderabad - TSPCB",
+                  "parameter": "co",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 1050,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 17.4559458,
+                        "longitude": 78.4332152
+                  },
+                  "country": "IN",
+                  "city": "Hyderabad"
+            },
+            {
+                  "location": "Sanathnagar, Hyderabad - TSPCB",
+                  "parameter": "so2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 4,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 17.4559458,
+                        "longitude": 78.4332152
+                  },
+                  "country": "IN",
+                  "city": "Hyderabad"
+            },
+            {
+                  "location": "Sanathnagar, Hyderabad - TSPCB",
+                  "parameter": "no2",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 47.9,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 17.4559458,
+                        "longitude": 78.4332152
+                  },
+                  "country": "IN",
+                  "city": "Hyderabad"
+            },
+            {
+                  "location": "Sanathnagar, Hyderabad - TSPCB",
+                  "parameter": "pm25",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 55,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 17.4559458,
+                        "longitude": 78.4332152
+                  },
+                  "country": "IN",
+                  "city": "Hyderabad"
+            },
+            {
+                  "location": "Alandur Bus Depot, Chennai - CPCB",
+                  "parameter": "o3",
+                  "date": {
+                        "utc": "2020-10-10T16:30:00Z",
+                        "local": "2020-10-10T22:00:00+05:30"
+                  },
+                  "value": 0.68,
+                  "unit": "\u00b5g/m\u00b3",
+                  "coordinates": {
+                        "latitude": 12.9099161,
+                        "longitude": 80.1076538
+                  },
+                  "country": "IN",
+                  "city": "Chennai"
+            }
+      ]
+}

@@ -1,0 +1,101 @@
+city,location,parameter,value
+Delhi,"North Campus, DU, Delhi - IMD",o3,32.14
+Delhi,"North Campus, DU, Delhi - IMD",no2,46.13
+Delhi,"North Campus, DU, Delhi - IMD",pm25,97.89
+Noida,"Sector - 62, Noida - IMD",co,940
+Noida,"Sector - 62, Noida - IMD",pm10,252.53
+Delhi,"CRRI Mathura Road, Delhi - IMD",o3,7.49
+Delhi,"CRRI Mathura Road, Delhi - IMD",no2,76.68
+Delhi,"CRRI Mathura Road, Delhi - IMD",pm25,88.49
+Delhi,"Aya Nagar, Delhi - IMD",o3,21.33
+Delhi,"Aya Nagar, Delhi - IMD",no2,29.61
+Delhi,"Aya Nagar, Delhi - IMD",pm25,103.52
+Delhi,"CRRI Mathura Road, Delhi - IMD",co,1530
+Delhi,"Lodhi Road, Delhi - IMD",o3,8.22
+Delhi,"Lodhi Road, Delhi - IMD",co,430
+Delhi,"Lodhi Road, Delhi - IMD",pm10,160.57
+Delhi,"Lodhi Road, Delhi - IMD",pm25,44.76
+Delhi,"CRRI Mathura Road, Delhi - IMD",pm10,243.36
+Delhi,"Aya Nagar, Delhi - IMD",co,1230
+Delhi,"Aya Nagar, Delhi - IMD",pm10,210.31
+Delhi,"Lodhi Road, Delhi - IMD",no2,16.07
+Delhi,"North Campus, DU, Delhi - IMD",co,470
+Delhi,"North Campus, DU, Delhi - IMD",pm10,222.22
+Noida,"Sector - 62, Noida - IMD",o3,22.43
+Noida,"Sector - 62, Noida - IMD",no2,20.6
+Noida,"Sector - 62, Noida - IMD",pm25,100.77
+Mumbai,US Diplomatic Post: Mumbai,pm25,36
+Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",o3,56.8
+Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",co,760
+Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",so2,12.1
+Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",no2,14.9
+Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",pm10,217
+Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",pm25,122
+Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",o3,45.4
+Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",co,980
+Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",so2,6.4
+Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",no2,35.5
+Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",pm10,213
+Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",pm25,98
+Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",o3,27.4
+Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",co,1110
+Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",so2,23.1
+Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",no2,32.8
+Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",pm10,215
+Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",pm25,44
+Kota,"Shrinath Puram, Kota - RSPCB",o3,10.22
+Kota,"Shrinath Puram, Kota - RSPCB",co,2000
+Kota,"Shrinath Puram, Kota - RSPCB",so2,10.49
+Kota,"Shrinath Puram, Kota - RSPCB",no2,28.29
+Kota,"Shrinath Puram, Kota - RSPCB",pm10,205
+Kota,"Shrinath Puram, Kota - RSPCB",pm25,161.5
+Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",o3,6.13
+Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",co,1140
+Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",so2,50.58
+Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",no2,224.9
+Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",pm10,486.35
+Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",pm25,239.97
+ Alwar,"Moti Doongri, Alwar - RSPCB",o3,21.76
+ Alwar,"Moti Doongri, Alwar - RSPCB",co,590
+ Alwar,"Moti Doongri, Alwar - RSPCB",so2,11.62
+ Alwar,"Moti Doongri, Alwar - RSPCB",no2,24.65
+ Alwar,"Moti Doongri, Alwar - RSPCB",pm10,80.77
+ Alwar,"Moti Doongri, Alwar - RSPCB",pm25,43.32
+Agra,"Sanjay Palace, Agra - UPPCB",o3,71.1
+Agra,"Sanjay Palace, Agra - UPPCB",co,710
+Agra,"Sanjay Palace, Agra - UPPCB",so2,7.3
+Agra,"Sanjay Palace, Agra - UPPCB",no2,75.6
+Agra,"Sanjay Palace, Agra - UPPCB",pm25,95
+Chennai,"Manali, Chennai - CPCB",co,1280
+Chennai,"Manali, Chennai - CPCB",so2,7.34
+Chennai,"Manali, Chennai - CPCB",no2,11.21
+Chennai,"Manali, Chennai - CPCB",pm25,39.02
+Hyderabad,"Zoo Park, Hyderabad - TSPCB",o3,14.1
+Hyderabad,"Zoo Park, Hyderabad - TSPCB",co,220
+Hyderabad,"Zoo Park, Hyderabad - TSPCB",so2,4.4
+Hyderabad,"Zoo Park, Hyderabad - TSPCB",no2,63.2
+Hyderabad,"Zoo Park, Hyderabad - TSPCB",pm10,180
+Hyderabad,"Zoo Park, Hyderabad - TSPCB",pm25,84
+Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",o3,1.26
+Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",co,700
+Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",so2,10.07
+Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",no2,135.64
+Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",pm10,641.97
+Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",pm25,282.2
+Chandrapur,"MIDC Khutala, Chandrapur - MPCB",o3,2.4
+Chandrapur,"MIDC Khutala, Chandrapur - MPCB",co,360
+Chandrapur,"MIDC Khutala, Chandrapur - MPCB",so2,6.33
+Chandrapur,"MIDC Khutala, Chandrapur - MPCB",no2,19.74
+Chandrapur,"MIDC Khutala, Chandrapur - MPCB",pm10,141.03
+Chandrapur,"MIDC Khutala, Chandrapur - MPCB",pm25,89.23
+Hyderabad,"Sanathnagar, Hyderabad - TSPCB",o3,7.4
+Hyderabad,"Sanathnagar, Hyderabad - TSPCB",co,1050
+Hyderabad,"Sanathnagar, Hyderabad - TSPCB",so2,4
+Hyderabad,"Sanathnagar, Hyderabad - TSPCB",no2,47.9
+Hyderabad,"Sanathnagar, Hyderabad - TSPCB",pm25,55
+Chennai,"Alandur Bus Depot, Chennai - CPCB",o3,0.68
+Chennai,"Alandur Bus Depot, Chennai - CPCB",co,100
+Chennai,"Alandur Bus Depot, Chennai - CPCB",so2,5.66
+Chennai,"Alandur Bus Depot, Chennai - CPCB",no2,10.29
+Chennai,"Alandur Bus Depot, Chennai - CPCB",pm25,39.48
+Chennai,"Velachery Res. Area, Chennai - CPCB",o3,44.95
